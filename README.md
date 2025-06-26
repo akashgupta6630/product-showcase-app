@@ -22,10 +22,10 @@ A responsive frontend web application built with **React.js** and **Tailwind CSS
 ![Home]()
 
 ### Product Cards
-![Cards](![alt text](screenshots/image-1.png))
+![Cards](![alt text](screenshots/image1.png))
 
 ### Pagination
-![Pagination](![alt text](screenshots/image-2.png))
+![Pagination](![alt text](screenshots/image2.png))
 
 
 ---
