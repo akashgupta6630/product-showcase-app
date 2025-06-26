@@ -17,15 +17,15 @@ A responsive frontend web application built with **React.js** and **Tailwind CSS
 
 ## 📸 Screenshots
 
-![alt text](image.png)
+![alt text](screenshots/image.png)
 ### Home Page (with Filters and Sorting)
 ![Home]()
 
 ### Product Cards
-![Cards](![alt text](image-1.png))
+![Cards](![alt text](screenshots/image-1.png))
 
 ### Pagination
-![Pagination](![alt text](image-2.png))
+![Pagination](![alt text](screenshots/image-2.png))
 
 > _Add your own screenshots in the `/screenshots` folder and update paths above._
 
