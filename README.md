@@ -27,7 +27,6 @@ A responsive frontend web application built with **React.js** and **Tailwind CSS
 ### Pagination
 ![Pagination](![alt text](screenshots/image-2.png))
 
-> _Add your own screenshots in the `/screenshots` folder and update paths above._
 
 ---
 
